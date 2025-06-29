@@ -3,7 +3,7 @@
 This is a simple web-based steganography utility that lets you **hide messages invisibly inside plain text** using Unicode zero-width characters.
 
 The entire app is built in pure HTML, CSS, and JavaScript — **no backend, no dependencies, no build system**.
-
+Check it out live: 👉 https://hamkee.net/stegano/
 ---
 
 ## ✨ Features
